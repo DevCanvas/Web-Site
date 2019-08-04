@@ -1,0 +1,146 @@
+/*Ready fonts:*/
+
+@font-face {
+	font-family: Roboto-L;
+	src: url(Roboto/Roboto-Light.ttf);
+}
+
+@font-face {
+	font-family: Roboto-M;
+	src: url(Roboto/Roboto-Medium.ttf);
+}
+
+@font-face {
+	font-family: Roboto-R;
+	src: url(Roboto/Roboto-Regular.ttf);
+}
+
+@font-face {
+	font-family: Roboto-B;
+	src: url(Roboto/Roboto-Black.ttf);
+}
+
+/*-----------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------*/
+
+@font-face {
+	font-family: "Lobster";
+	src: url("Lobster()/Lobster_1.3.otf");
+}
+
+/*-----------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------*/
+
+@font-face {
+	font-family: "Ubuntu-B";
+	src: url("Ubuntu(full)/Ubuntu-B.ttf");
+}
+
+@font-face {
+	font-family: "Ubuntu-M";
+	src: url("Ubuntu(full)/Ubuntu-M.ttf");
+}
+
+@font-face {
+	font-family: "Ubuntu-L";
+	src: url("Ubuntu(full)/Ubuntu-L.ttf");
+}
+
+@font-face {
+	font-family: "Ubuntu-R";
+	src: url("Ubuntu(full)/Ubuntu-R.ttf");
+}
+
+/*-----------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------*/
+
+@font-face {
+	font-family: "Garamond-R";
+	src: url("Garamond(R)/EBGaramond08-Regular.otf");
+}
+
+/*-----------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------*/
+
+@font-face {
+	font-family: "CenturyGothic-R";
+	src: url("CenturyGothic(R-B)/CenturyGothic.ttf");
+}
+
+@font-face {
+	font-family: "CenturyGothic-B";
+	src: url("CenturyGothic(R-B)/CenturyGothic-Bold.ttf");
+}
+
+/*-----------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------*/
+
+@font-face {
+	font-family: "CodeLight-R";
+	src: url("CodeLight(R)/CODE_Light.ttf");
+}
+
+/*-----------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------*/
+
+@font-face {
+	font-family: "Myriad-R"; 
+	src: url("Myriad-Pro(R-B-L-BL-SemiB)/MyriadPro-Regular.ttf");
+}
+
+@font-face {
+	font-family: "Myriad-B"; 
+	src: url("Myriad-Pro(R-B-L-BL-SemiB)/MyriadPro-Bold.ttf");
+}
+
+@font-face {
+	font-family: "Myriad-L"; 
+	src: url("Myriad-Pro(R-B-L-BL-SemiB)/MyriadPro-LightCond.ttf");
+}
+
+@font-face {
+	font-family: "Myriad-BL"; 
+	src: url("Myriad-Pro(R-B-L-BL-SemiB)/MyriadPro-Black.ttf");
+}
+
+@font-face {
+	font-family: "Myriad-SB"; 
+	src: url("Myriad-Pro(R-B-L-BL-SB)/MyriadPro-Semibold.ttf");
+}
+
+
+
+/*-----------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------*/
+
+
+.testerr p {
+	font-family: Myriad-SB;
+}
+
+.testerr p > p {
+	font-family: Myriad-L;
+}
+
+.testerr span {
+	font-family: Roboto-M;
+}
+
+.testerr span > span {
+	font-family: Roboto-L;
+}
